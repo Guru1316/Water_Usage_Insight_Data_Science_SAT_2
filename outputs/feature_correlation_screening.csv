@@ -1,0 +1,11 @@
+,absolute_correlation_with_usage
+connection_median_usage,0.9737384881984241
+estimated_household_size,0.8917470191003102
+connection_usage_std,0.8666364301224161
+usage_per_estimated_person,0.2805933991702474
+leak_report,0.16137426248666129
+z_score,0.13484772905992712
+days_from_repair,0.1262750705332748
+temperature,0.0626461723963541
+month,0.05312141828275617
+rain,0.024835329084541318

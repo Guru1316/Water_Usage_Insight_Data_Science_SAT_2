@@ -1,0 +1,6 @@
+dataset,rows,columns,duplicate_rows,missing_cells
+meter,10793,3,18,24
+connections,60,4,0,15
+billing,360,3,0,0
+weather,181,3,0,0
+maintenance,6,4,0,0
